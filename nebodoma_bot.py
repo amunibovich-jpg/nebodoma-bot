@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 # ============================================
 # ВСТАВЬ СЮДА СВОИ ДАННЫЕ
 BOT_TOKEN = "8718699269:AAFjnaGebYaQQbxaDUI1F71Ixn62DcIaXsA"
-ADMIN_CHAT_ID = 957636899 ============================================
+ADMIN_CHAT_ID = 957636899
 
 logging.basicConfig(level=logging.INFO)
 
